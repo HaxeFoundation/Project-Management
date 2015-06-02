@@ -1,6 +1,6 @@
 # Project-Management
 
-This repository should be used for all coordination and project management issues that can not or should not discussed elsewhere. This includes preparation and wrap ups for team meetings, idea discussions, strategic discussions and input regarding communication.
+This repository should be used for all coordination and project management issues that can not or should not be discussed elsewhere. This includes preparation and wrap ups for team meetings, idea discussions, strategic discussions and input regarding communication.
 
 The goal is to have a more organized approach and a central point to follow discussions without cluttering the other repositories.
 
