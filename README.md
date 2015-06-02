@@ -16,9 +16,9 @@ Workflow Labels:
 * Project and Idea Discussions
 * Closed
 
-These labels should be used to indicate the current status of the issue. If you change the label for non-obvious reason, please also submit a quick comment as to why you have changed it. for example, if you put it to "Feedback Needed" consider re-assigning it to the person you need feedback from or @-mentioning that person in a comment.
+These labels should be used to indicate the current status of the issue. If you change the label for non-obvious reason, please also submit a quick comment as to why you have changed it. For example, if you put it to "Feedback Needed" consider re-assigning it to the person you need feedback from or @-mentioning that person in a comment.
 
-Also, always assign your issues, as soon as you take ownership or want someone else to take ownership. The only un-assigned isues should be project or idea discussions.
+Also, always assign your issues, as soon as you take ownership or want someone else to take ownership. The only un-assigned issues should be project or idea discussions.
 
 Topic Labels:
 
@@ -31,7 +31,7 @@ Topic Labels:
 * WWX 2015 Follow Up
 * etc.
 
-These should be used to group issues by topic, so that they can be filtered if needed. We might consider adding to these labels when a project discussion fragments into actionable tasks.
+These should be used to group issues by topic so that they can be filtered if needed. We might consider adding to these labels when a project discussion fragments into actionable tasks that can not be dealt with in other repositories.
 
 The workflow labels tie in with the waffle.io board I have set up for a more visual approach to these issues:
 
